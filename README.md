@@ -16,12 +16,6 @@
 
 ---
 
-### 👋 About Me
-
-I’m a passionate programmer who loves hacking, game development, and creating cheat clients. Currently exploring advanced Python, C++, JS, and Lua projects.
-
----
-
 ### 🧠 GitHub Profile Overview
 
 <p align="center">
