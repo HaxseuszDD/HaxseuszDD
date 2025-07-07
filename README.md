@@ -16,6 +16,18 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="200" />
+</p>
+
+---
+
+### 👋 About Me
+
+I’m a passionate programmer who loves hacking, game development, and creating cheat clients. Currently exploring advanced Python, C++, JS, and Lua projects.
+
+---
+
 ### 🧠 GitHub Profile Overview
 
 <p align="center">
