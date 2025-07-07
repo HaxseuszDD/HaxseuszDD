@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/HaxseuszDD">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,cpp,csharp&includeNames=true&theme=darkmode" alt="Languages">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,cpp,csharp,lua&includeNames=true&theme=darkmode" alt="Languages">
   </a>
 </p>
 
