@@ -4,6 +4,14 @@
   <a href="https://discord.com/users/123456789012345678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Contact%20me-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Contact me on Discord">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/haxseusz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-Haxseusz-9146FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Haxseusz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Haxseusz-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+  </a>
 </p>
 
 ---
