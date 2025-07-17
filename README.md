@@ -34,16 +34,6 @@
   </a>
 </p>
 
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HaxseuszDD&theme=iceberg" alt="GitHub Streak Stats">
-  </a>
-</p>
-
 <!--
 **HaxseuszDD/HaxseuszDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
