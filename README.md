@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Haxzi 👋</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
+  <a href="https://discord.com/users/1283123203748925493" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Contact%20me-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Contact me on Discord">
   </a>
   &nbsp;&nbsp;
